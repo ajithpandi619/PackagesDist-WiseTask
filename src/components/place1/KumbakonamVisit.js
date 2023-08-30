@@ -34,7 +34,7 @@ function KumbakonamVisit() {
                 </Modal.Title>
               </Modal.Header>
 
-              <Modal.Body className="row  ">
+              <Modal.Body className="row">
                 <div className="row pe-5">
                   <div className="col text-center">
                     <img
