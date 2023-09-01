@@ -38,15 +38,15 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link text-light" to={"/Food"}>
+              <Link className="nav-link text-light" to={"/Packages"}>
                 Packages
               </Link>
             </li>
+
             <li className="nav-item">
-              <Link className="nav-link text-light">Destination</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link text-light">Food</Link>
+              <Link className="nav-link text-light" to={"/Food"}>
+                Food
+              </Link>
             </li>
           </ul>
         </div>
